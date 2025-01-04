@@ -72,6 +72,101 @@ Para informações detalhadas sobre a grade curricular do curso diurno, recomend
 
 ---
 
+---
+
+## Outros estilos 
+### Estilos dentro das Escolas e Períodos da Arquitetura
+
+1. **Brutalismo**
+   - O Brutalismo é um estilo arquitetônico que faz parte do movimento Arquitetura Moderna, mas possui características distintas que o diferenciam de outras abordagens dentro desse movimento. Surgiu após a Segunda Guerra Mundial, nos anos 1950 e 1960, como uma evolução do modernismo, com forte influência do trabalho de arquitetos como Le Corbusier.
+   - Características do Brutalismo:
+   Uso predominante de concreto aparente (daí o termo "brutal", derivado de "béton brut", que significa "concreto bruto" em francês).
+   Estruturas robustas e monumentais, com ênfase na funcionalidade.
+   Aparência austera e direta, com formas geométricas simples e elementos muitas vezes expostos (como sistemas estruturais e materiais).
+   - Foco em criar edifícios que fossem acessíveis e práticos, muitas vezes para habitação pública, instituições educacionais e espaços culturais.
+   - Principais Entusiastas e Criadores:
+   Le Corbusier: Inspirou o brutalismo com projetos como o Unité d'Habitation em Marselha.
+   Alison e Peter Smithson: Arquitetos britânicos que popularizaram o termo e o estilo na Europa.
+   Marcel Breuer: Projetou edifícios brutalistas icônicos como o Whitney Museum (atual Met Breuer) em Nova York.
+   Paul Rudolph: Conhecido por projetos como o Yale Art and Architecture Building.
+   O brutalismo se tornou polêmico devido à sua aparência muitas vezes considerada "dura" ou "fria", mas é celebrado por sua honestidade material e impacto visual. Hoje, muitos edifícios brutalistas são marcos arquitetônicos reconhecidos globalmente.
+
+2. **Arquitetura Bizantina**
+   - Período: Séculos IV-XV
+   - Características:
+   Cúpulas sobre pendentes.
+   Decoração luxuosa com mosaicos dourados e iconografia religiosa.
+   Uso de arcos semicirculares e colunas finas. Exemplo Notável: Basílica de Santa Sofia, Istambul.
+   Entusiastas: Arquitetos anônimos do Império Bizantino.
+
+3. **Arquitetura Islâmica**
+   - Período: Século VII em diante
+   - Características:
+   Uso de padrões geométricos e arabescos.
+   Elementos como minaretes, arcos em ferradura, e cúpulas.
+   Decoração rica com cerâmicas e caligrafia árabe. Exemplo Notável: Alhambra, na Espanha.
+   Entusiastas: Arquitetos das dinastias Omíada e Abássida.
+
+4. **Arquitetura Art Nouveau**
+   - Período: Fim do século XIX e início do século XX
+   - Características:
+   Linhas curvas e fluidas inspiradas na natureza.
+   Uso de novos materiais como ferro forjado e vidro.
+   Decoração rica e orgânica. Exemplo Notável: Casa Batlló, de Antoni Gaudí, em Barcelona.
+   Entusiastas: Antoni Gaudí, Victor Horta, Hector Guimard.
+
+5. **Arquitetura Bauhaus**
+   - Período: Anos 1920-1930
+   - Características:
+   Simplicidade e funcionalidade.
+   Linhas retas e design minimalista.
+   Integração entre arte, tecnologia e arquitetura. Exemplo Notável: Edifício Bauhaus, em Dessau.
+   Entusiastas: Walter Gropius, Ludwig Mies van der Rohe.
+
+6. **Arquitetura High-Tech**
+   - Período: Anos 1970-1980
+   - Características:
+   Uso de materiais industriais como aço e vidro.
+   Exposição de elementos estruturais e tecnológicos.
+   Estilo moderno com foco em funcionalidade. Exemplo Notável: Centre Pompidou, de Renzo Piano e Richard Rogers.
+   Entusiastas: Norman Foster, Richard Rogers, Renzo Piano.
+
+7. **Arquitetura Neogótica**
+   - Período: Século XIX
+   - Características:
+   Reinterpretação dos elementos góticos (arcos ogivais, vitrais).
+   Uso em igrejas, universidades e prédios públicos. Exemplo Notável: Parlamento Britânico, de Charles Barry e Augustus Pugin.
+   Entusiastas: Augustus Pugin, John Ruskin.
+
+8. **Arquitetura Deconstructivista**
+   - Período: Anos 1980 em diante
+   - Características:
+   Fragmentação e formas não lineares.
+   Aparência caótica e ausência de simetria. Exemplo Notável: Museu Guggenheim, de Frank Gehry, em Bilbao.
+   Entusiastas: Frank Gehry, Zaha Hadid, Daniel Libeskind.
+
+9. **Arquitetura Metabólica**
+   - Período: Década de 1960 (Japão)
+   - Características:
+   Estruturas modulares e flexíveis.
+   Uso de formas futuristas. Exemplo Notável: Nakagin Capsule Tower, de Kisho Kurokawa.
+   Entusiastas: Kenzo Tange, Kisho Kurokawa.
+
+10. **Arquitetura Futurista**
+      - Período: Início do século XX
+      - Características:
+      Formas dinâmicas e inspiradas em velocidade e tecnologia.
+      Uso de materiais modernos como aço e concreto. Exemplo Notável: Estação Ferroviária de Bolonha (projetos).
+      Entusiastas: Antonio Sant’Elia, Filippo Marinetti.
+
+11. **Arquitetura Vernacular Contemporânea**
+      - Período: Século XXI
+      - Características:
+      Combinação de técnicas tradicionais com tecnologias modernas.
+      Sustentabilidade e uso de materiais locais. Exemplo Notável: Songdo International Business District, Coreia do Sul.
+      Entusiastas: Equipes colaborativas e coletivos regionais.
+---
+
 ## Como um Projeto Arquitetônico é Compartilhado?
 ### Principais Formas de Compartilhamento:
 
