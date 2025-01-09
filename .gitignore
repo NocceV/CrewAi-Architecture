@@ -1,0 +1,41 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.so
+.Python
+
+# Environment variables
+.env
+env/
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit cache
+.streamlit/
+*.streamlit/
+poetry.lock
+
+# Crear.ai specific
+*.crewai/
+
+# Logs and debug files
+*.log
+*.bak
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Miscellaneous
+*.sqlite3
