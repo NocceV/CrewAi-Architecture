@@ -15,8 +15,7 @@ venv/
 .venv/
 
 # Streamlit cache
-.streamlit/
-*.streamlit/
+
 poetry.lock
 
 # Crear.ai specific
