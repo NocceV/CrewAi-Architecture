@@ -221,3 +221,6 @@ Para informações detalhadas sobre a grade curricular do curso diurno, recomend
 ### Recomendação Final:
 - **PDF combinado com imagens PNG** para simplicidade e compatibilidade.
 - Incluir modelos CAD/BIM e descrições estruturadas para análises técnicas aprofundadas.
+
+## imagem da ideia inicial
+ ![Imagem da solução](./images/ideia-inicial.png "imagem da idealização inicial")
