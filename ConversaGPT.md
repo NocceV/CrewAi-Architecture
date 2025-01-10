@@ -224,3 +224,5 @@ Para informações detalhadas sobre a grade curricular do curso diurno, recomend
 
 ## imagem da ideia inicial
  ![Imagem da solução](./images/ideia-inicial.png "imagem da idealização inicial")
+ ![Imagem da solução](./images/Planejamento-Fluxo.png "imagem do fluxo")
+ ![Imagem da solução](./images/Base-Crew.png "Imagem da ideia inicial da crew")
